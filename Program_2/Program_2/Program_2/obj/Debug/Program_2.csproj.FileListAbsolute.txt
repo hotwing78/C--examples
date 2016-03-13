@@ -1,0 +1,12 @@
+C:\Users\Ksenia\Downloads\Program_2\Program_2\Program_2\bin\Debug\Program_2.exe.config
+C:\Users\Ksenia\Downloads\Program_2\Program_2\Program_2\bin\Debug\Program_2.exe
+C:\Users\Ksenia\Downloads\Program_2\Program_2\Program_2\bin\Debug\Program_2.pdb
+C:\Users\Ksenia\Downloads\Program_2\Program_2\Program_2\obj\Debug\Program_2.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Downloads\Program_2\Program_2\Program_2\obj\Debug\Program_2.exe
+C:\Users\Ksenia\Downloads\Program_2\Program_2\Program_2\obj\Debug\Program_2.pdb
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_2\Program_2\Program_2\bin\Debug\Program_2.exe.config
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_2\Program_2\Program_2\obj\Debug\Program_2.exe
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_2\Program_2\Program_2\obj\Debug\Program_2.pdb
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_2\Program_2\Program_2\bin\Debug\Program_2.exe
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_2\Program_2\Program_2\bin\Debug\Program_2.pdb
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_2\Program_2\Program_2\obj\Debug\Program_2.csprojResolveAssemblyReference.cache

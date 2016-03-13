@@ -1,0 +1,10 @@
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\bin\Debug\CheckSudoku.exe.config
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\bin\Debug\CheckSudoku.exe
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\bin\Debug\CheckSudoku.pdb
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\obj\Debug\Program_5_CheckSudoku.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\obj\Debug\Program_5_CheckSudoku_Wingo.Form1.resources
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\obj\Debug\Program_5_CheckSudoku.csproj.GenerateResource.Cache
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\obj\Debug\CheckSudoku.exe
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\obj\Debug\CheckSudoku.pdb
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\bin\Debug\CheckSudoku.exe.CodeAnalysisLog.xml
+C:\Users\Ksenia\Downloads\Previous Class\C#\Program_5_Wingo\CheckSudoku\CheckSudoku\bin\Debug\CheckSudoku.exe.lastcodeanalysissucceeded

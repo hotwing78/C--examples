@@ -1,0 +1,6 @@
+c:\users\ksenia\documents\visual studio 2013\Projects\Stacktest\Stacktest\bin\Debug\Stacktest.exe.config
+c:\users\ksenia\documents\visual studio 2013\Projects\Stacktest\Stacktest\bin\Debug\Stacktest.exe
+c:\users\ksenia\documents\visual studio 2013\Projects\Stacktest\Stacktest\bin\Debug\Stacktest.pdb
+c:\users\ksenia\documents\visual studio 2013\Projects\Stacktest\Stacktest\obj\Debug\Stacktest.csprojResolveAssemblyReference.cache
+c:\users\ksenia\documents\visual studio 2013\Projects\Stacktest\Stacktest\obj\Debug\Stacktest.exe
+c:\users\ksenia\documents\visual studio 2013\Projects\Stacktest\Stacktest\obj\Debug\Stacktest.pdb

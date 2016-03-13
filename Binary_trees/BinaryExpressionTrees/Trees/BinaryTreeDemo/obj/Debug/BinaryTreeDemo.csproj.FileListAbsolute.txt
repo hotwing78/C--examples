@@ -1,0 +1,6 @@
+C:\Users\Ksenia\Downloads\Wingo,D. Program 5\BinaryExpressionTrees\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.exe.config
+C:\Users\Ksenia\Downloads\Wingo,D. Program 5\BinaryExpressionTrees\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.exe
+C:\Users\Ksenia\Downloads\Wingo,D. Program 5\BinaryExpressionTrees\Trees\BinaryTreeDemo\bin\Debug\BinaryTreeDemo.pdb
+C:\Users\Ksenia\Downloads\Wingo,D. Program 5\BinaryExpressionTrees\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Downloads\Wingo,D. Program 5\BinaryExpressionTrees\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.exe
+C:\Users\Ksenia\Downloads\Wingo,D. Program 5\BinaryExpressionTrees\Trees\BinaryTreeDemo\obj\Debug\BinaryTreeDemo.pdb

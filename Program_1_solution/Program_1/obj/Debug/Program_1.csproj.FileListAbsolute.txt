@@ -1,0 +1,6 @@
+C:\Users\Ksenia\Downloads\Program_1_solution\Program_1_solution\Program_1\bin\Debug\Program_1.exe.config
+C:\Users\Ksenia\Downloads\Program_1_solution\Program_1_solution\Program_1\bin\Debug\Program_1.exe
+C:\Users\Ksenia\Downloads\Program_1_solution\Program_1_solution\Program_1\bin\Debug\Program_1.pdb
+C:\Users\Ksenia\Downloads\Program_1_solution\Program_1_solution\Program_1\obj\Debug\Program_1.csprojResolveAssemblyReference.cache
+C:\Users\Ksenia\Downloads\Program_1_solution\Program_1_solution\Program_1\obj\Debug\Program_1.exe
+C:\Users\Ksenia\Downloads\Program_1_solution\Program_1_solution\Program_1\obj\Debug\Program_1.pdb
